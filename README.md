@@ -1,6 +1,7 @@
 📘 1st Semester Labs
 
 Subject:Computer programming 
+
 This repository contains all lab work for the 1st
  semester course Computer programming.
 The purpose of these labs is to build strong programming fundamentals of C++ concepts 
