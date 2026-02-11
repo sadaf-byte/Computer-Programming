@@ -1,8 +1,8 @@
-📘 2st Semester Labs
+📘 2nd Semester Labs
 
 Subject:Computer programming 
 
-This repository contains all lab work for the 2st
+This repository contains all lab work for the 2nd
  semester course Computer programming.
 The purpose of these labs is to build strong programming fundamentals of C++ concepts 
 Each lab includes simple explanations and beginner-friendly examples to help students understand programming logic.
