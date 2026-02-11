@@ -39,6 +39,7 @@ Lab Name:
 | 12 | Pointers   Using memory addresses and pointer variables.
 
 🖥️ Languages & Tools Used
+
 DEV C++
 VS Code
  Extensions for VS Code
